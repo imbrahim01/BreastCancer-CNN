@@ -1,0 +1,10 @@
+streamlit 
+os
+torch
+torch.optim 
+torchvision 
+torch.utils.data 
+sklearn.metrics 
+matplotlib
+numpy 
+pandas 
