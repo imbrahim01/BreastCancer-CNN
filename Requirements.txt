@@ -1,6 +1,7 @@
 streamlit 
 os
 torch
+torch.nn
 torch.optim 
 torchvision 
 torch.utils.data 
